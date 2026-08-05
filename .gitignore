@@ -1,0 +1,7 @@
+azazel/vendor/
+zaza/vendor/
+**/.zig-cache/
+**/zig-out/
+**/zig-pkg/
+azazel/build_spec.zig
+azazel/.build_spec.stamp
